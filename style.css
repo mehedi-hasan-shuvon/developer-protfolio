@@ -40,6 +40,7 @@ h2{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    padding-right: 10px;
 }
 
 .experience-area{
@@ -72,4 +73,13 @@ footer{
 }
 #experience-id{
     padding-left: 60px;
+}
+
+.about-me{
+    padding-right: 100px;
+}
+
+#new{
+    padding-left: 50px;
+    padding-top: 5px;
 }

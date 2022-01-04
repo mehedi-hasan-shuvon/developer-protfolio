@@ -83,3 +83,7 @@ footer{
     padding-left: 50px;
     padding-top: 5px;
 }
+#welcome-message{
+    font-size: 60px;
+    margin-bottom: 0;
+}

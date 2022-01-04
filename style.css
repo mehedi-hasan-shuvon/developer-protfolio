@@ -88,15 +88,13 @@ footer{
     font-size: 60px;
     margin-bottom: 0;
 }
-.fa-facebook{
-    padding-right: 20px;
+
+.fa {
+    padding: 0px 20px;
     font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
     
-}
-.fa-linkedin{
-    font-size: 30px;
-}
-.fa-github{
-    padding-left: 20px;
-    font-size: 30px;
-}
+  }
